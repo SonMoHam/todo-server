@@ -31,6 +31,10 @@
 
 ### Post /todo
 #### 요청 바디
+|key|value example|
+|---|---|
+|content| "하루 1 커밋" |   
+|deadline| "2021-06-30" |   
 
 #### 응답 - JSON
 - msg - 성공/실패 메시지
@@ -38,6 +42,12 @@
 
 ### Put /todo
 #### 요청 바디
+|key|value example|
+|---|---|---|
+|id|1|
+|content| "내용-수정"|   
+|isClear| true |   
+|deadline| "2021-06-20" |   
 
 #### 응답 - JSON
 - msg - 성공/실패 메시지
