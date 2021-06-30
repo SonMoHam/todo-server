@@ -43,7 +43,7 @@
 ### Put /todo
 #### 요청 바디
 |key|value example|
-|---|---|---|
+|---|---|
 |id|1|
 |content| "내용-수정"|   
 |isClear| true |   
