@@ -34,7 +34,8 @@
 |key|value example|
 |---|---|
 |content| "하루 1 커밋" |   
-|deadline| "2021-06-30" |   
+|deadline| "2021-06-30" | 
+deadline 입력값 없을 시 등록일 반환 ( 오늘 할 일 )
 
 #### 응답 - JSON
 - msg - 성공/실패 메시지
