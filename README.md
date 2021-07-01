@@ -23,7 +23,7 @@
 | Delete | /todo/:id | 할 일 삭제하기 |
 
 #
-### Get /todo 
+### Get /todo http://3.37.62.54:3000/todo
 #### 응답 - JSON
 - msg - 성공/실패 메시지
 - data - 할 일 목록
